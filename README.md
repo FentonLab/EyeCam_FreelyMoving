@@ -19,5 +19,12 @@ Components:
 - 2 brass screws
 - IR LED, cut-tape: https://www.digikey.com/en/products/detail/VSMY3890X01-GS08/751-VSMY3890X01-GS08CT-ND/16684747?utm_source=netcomponents&utm_medium=aggregator&utm_campaign=buynow 
 
-The eye camera runs on a raspberry pi 4 board. 
+The eye camera runs on a Raspberry Pi 4 board. Connect the extension cable to the _CAMERA IN_ port on the Raspberry Pi board, and the SpyCam to the extension cable. 
+Build the camera holder as follows:
+
 ![eyecam](https://github.com/user-attachments/assets/4ebeb071-77f1-46f8-8c04-64c380a73682)
+
+## Pupil-tracking
+
+## Locomotion camera
+![locomotion_camera](https://github.com/user-attachments/assets/47f818b3-0822-471d-a1c3-0718c76c6db8)
